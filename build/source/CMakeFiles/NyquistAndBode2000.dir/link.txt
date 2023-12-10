@@ -1,0 +1,1 @@
+/usr/bin/gfortran -Wall -Wextra -Werror -std=gnu CMakeFiles/NyquistAndBode2000.dir/nyquist_and_bode.f90.o CMakeFiles/NyquistAndBode2000.dir/func.f90.o CMakeFiles/NyquistAndBode2000.dir/main.f90.o -o ../run/NyquistAndBode2000 
